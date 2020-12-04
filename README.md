@@ -1,4 +1,4 @@
-![](https://i.imgur.com/kB7y7iI.png)
+<img src="https://i.imgur.com/kB7y7iI.png" alt="" width="64" height="64">
 
 An (as of yet unfinished) app for learning languages through repetition by means of song lyrics. This is being done largely because of personal interest, because as far as I can tell there is no decent free alternative out there. It is also a project to familiarize myself with android development, particularly Kotlin.
 
